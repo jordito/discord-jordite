@@ -1,0 +1,2 @@
+# discord-jordite
+ Badge thingy
